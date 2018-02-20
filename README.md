@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/peter1king/hello-world.svg?branch=master)](https://travis-ci.org/peter1king/hello-world)
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peter1king/hello-world/blob/master/LICENCE)
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peter1king/hello-world/blob/master/LICENSE)
 # 我使用GIT时常用到的命令
 ## 1.配置
 - [x] 增加配置项
